@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "async": "0.x.x",
+        "domino": "1.x.x",
+        "follow-redirects": "0.x.x",
+        "graceful-fs": "2.x.x",
+        "hiredis": "0.x.x",
+        "html-minifier": "0.x.x",
+        "httpsync": "0.x.x",
+        "jpegtran": "0.x.x",
+        "jsdom": "0.x.x",
+        "line-by-line": "0.x.x",
+        "path": "0.x.x",
+        "pngcrush": "0.x.x",
+        "pngquant": "0.x.x",
+        "redis": "0.x.x",
+        "request-enhanced": "0.x.x",
+        "sleep": "1.x.x",
+        "swig": "1.x.x",
+        "sync": "0.x.x",
+        "url": "0.x.x"
+   }
+}
